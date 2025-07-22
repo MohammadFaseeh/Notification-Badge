@@ -7,7 +7,9 @@ Smooth button hover and icon effects
 Built with only HTML, CSS, and vanilla JavaScript
 
 📸 Preview
+
 <img width="265" height="273" alt="image" src="https://github.com/user-attachments/assets/b0756358-647e-4682-88b7-9e9235136be7" />
+
 <img width="193" height="200" alt="image" src="https://github.com/user-attachments/assets/8870ddea-f0ca-46fd-8ba8-ffbcb0cfe520" />
 
 ✨ Customization
